@@ -14,9 +14,9 @@ Currently There are Hardcoded Values:
 * Playername for looking up
 * Wait time delay between API requests.
 
-## Running
+### Running
 `python skill_trend.py`
 
-##Requires
+### Requires
 * Python Pandas 
 * A Pubg API Key with the value set on an environment variable.
